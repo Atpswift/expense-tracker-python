@@ -92,3 +92,7 @@ I performed the following tests to validate functionality of the program:
 
 4. **Generate Report**: Checked that the bar chart accurately represents expense distribution.
 
+## Deployment 
+
+You can see the deployment here: https://www.pythonanywhere.com/user/Hovsep/files/home/Hovsep
+
