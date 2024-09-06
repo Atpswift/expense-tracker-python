@@ -92,33 +92,3 @@ I performed the following tests to validate functionality of the program:
 
 4. **Generate Report**: Checked that the bar chart accurately represents expense distribution.
 
-## Deployment
-
-1. **Create a `Procfile`**:
-
-   ```
-   worker: pyhon expense_tracker.py
-   ```
-
-2. **Deploy to Heroku:**
-
-   - Install Heroku CLI
-
-   - Log in to Heroku:
-
-     ```bash
-     heroku login
-     ```
-
-   - Create a new Heroku application:
-
-     ```bash
-     heroku create
-     ```
-
-   - Push your code to Heroku:
-
-     ```bash
-     git push heroku main
-     ```
-
