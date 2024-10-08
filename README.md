@@ -94,5 +94,5 @@ I performed the following tests to validate functionality of the program:
 
 ## Deployment 
 
-You can see the deployment here: https://www.pythonanywhere.com/user/Hovsep/files/home/Hovsep
+You can see the deployment here: https://python-expense-tracker896-f8aa49a1c241.herokuapp.com/
 
